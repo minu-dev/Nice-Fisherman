@@ -1,3 +1,13 @@
-# 착한어부
-#### 제4회 KB국민은행 소프트웨어 경진대회 출품작
+<div align= "center">
+    <h1> 🐟 착한어부 🦑</h1>
+</div>
 
+<div align= "center">
+<img src="https://img.shields.io/badge/License-MIT-blue"/>
+</div>
+<br/>
+<br/>
+
+🐟 The application was created in 2021. 🐟
+
+<br/>
