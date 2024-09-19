@@ -7,7 +7,7 @@
 </div>
 <br/>
 <br/>
-
+<div align= "center">
 🐟 The application was created in 2021. 🐟
-
+</div>
 <br/>
