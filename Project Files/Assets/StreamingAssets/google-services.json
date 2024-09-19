@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "506636251855",
+    "firebase_url": "https://a-nice-fisherman-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "a-nice-fisherman",
+    "storage_bucket": "a-nice-fisherman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506636251855:android:7ff99c69bee51f26c43dba",
+        "android_client_info": {
+          "package_name": "com.baekdev.nicefisherman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506636251855-q7a12v3i65fsgmmnue59qquq2nv1r84d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATnyBRs3iiInTasdUdCduNyg9fcqNuN1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506636251855-q7a12v3i65fsgmmnue59qquq2nv1r84d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506636251855-n9tncpg6bm7j9j72hktcrpqnr0s91gop.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baekdev.nicefisherman"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

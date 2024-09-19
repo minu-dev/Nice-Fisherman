@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>506636251855-n9tncpg6bm7j9j72hktcrpqnr0s91gop.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.506636251855-n9tncpg6bm7j9j72hktcrpqnr0s91gop</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYJJxIhCIRpo-IrLsy9aV42xnU4upZD-w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>506636251855</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.baekdev.nicefisherman</string>
+	<key>PROJECT_ID</key>
+	<string>a-nice-fisherman</string>
+	<key>STORAGE_BUCKET</key>
+	<string>a-nice-fisherman.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:506636251855:ios:cc73dee0ce34a2f3c43dba</string>
+	<key>DATABASE_URL</key>
+	<string>https://a-nice-fisherman-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

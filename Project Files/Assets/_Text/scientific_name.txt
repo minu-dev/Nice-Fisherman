@@ -1,0 +1,40 @@
+Acanthopagrus schlegelii
+Branchiostegus japonicus
+Carassius auratus
+Carcinoplax Longimana
+Chelydra serpentina
+Chionoecetes opilio
+Chromis notatus
+Cynoglossus robustus
+Cyprinus carpio
+Dentex tumifrons
+Erythroculter erythropterus
+Gadus chalcogrammus
+Gadus macrocephalus
+Hexagrammos otakii
+Hypomesus nipponensis
+Larimichthys polyactis
+Lateolabrax japonicus
+Lepomis macrochirus
+Lithobates catesbeianus
+Lophiomus setigerus
+Macrophthaimus dilatatus
+Micropterus salmoides
+Mugil cephalus
+Onchorthynchus masou
+Oncorhynchus keta
+Oncorhynchus masou
+Oplegnathus fasciatus
+Philyra pisum De Haan
+Plecoglossus altivelis
+Portunus trituberculatus
+Raja pulchra
+Rana nigromaculata
+Rhynchocypris oxycephalus
+Scomber japonicus
+Scomberomorus niphonius
+Sebastes inermisa
+Sebastiscus tertius
+Tetraodon
+Thamnaconus modestus
+Trachemys scripta elegans
